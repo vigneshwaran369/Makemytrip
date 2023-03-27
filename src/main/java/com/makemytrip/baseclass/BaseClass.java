@@ -214,6 +214,9 @@ public class BaseClass {
 		}
 	}
 
+	
+	//new edit this is vicky
+	
 	public void takeScreenShot(String fileName) throws IOException {
 		try {
 			TakesScreenshot ts = (TakesScreenshot) driver;
